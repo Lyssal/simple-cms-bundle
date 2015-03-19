@@ -14,6 +14,7 @@
 		}
 	],
 	"require" : {
+        "jackalope/jackalope-doctrine-dbal" : "1.*",
 		"symfony-cmf/simple-cms-bundle" : "1.2.*"
 	},
 	"autoload" : {
