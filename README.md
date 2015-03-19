@@ -2,6 +2,8 @@
 
 `LyssalSimpleCmsBundle` est une surcharge du `SimpleCmsBundle` de `Symfony CMF`.
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/2aab2e2b-3219-4b00-abb6-bbbe2b4f892d/small.png)](https://insight.sensiolabs.com/projects/2aab2e2b-3219-4b00-abb6-bbbe2b4f892d)
+
 ## SonataAdmin
 
 `LyssalSimpleCmsBundle` intègre automatiquement un éditeur `CKEditor` dans la gestion administrative de `SymfonyCMF` si le FormType `ckeditor` existe (en installant `IvoryCKEditorBundle` par exemple).
