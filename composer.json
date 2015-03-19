@@ -1,0 +1,24 @@
+{
+	"name" : "lyssal/simple-cms-bundle",
+	"description" : "Surcharge du SimpleCmsBundle de Symfony CMF",
+	"license" : "proprietary",
+	"keywords" : [
+		"cms",
+		"simple-cms",
+        "symfony-cmf"
+	],
+	"type" : "symfony-bundle",
+	"authors" : [{
+			"name" : "Rémi Leclerc",
+			"homepage" : "http://www.lyssal.com/"
+		}
+	],
+	"require" : {
+		"symfony-cmf/simple-cms-bundle" : "1.2.*"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Lyssal\\SymfonyCmf\\SimpleCmsBundle" : "src"
+		}
+	}
+}
