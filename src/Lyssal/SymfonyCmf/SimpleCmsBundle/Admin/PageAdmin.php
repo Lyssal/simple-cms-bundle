@@ -16,11 +16,7 @@ class PageAdmin extends BasePageAdmin
                 ->remove('body')
                 ->add(
                     'body',
-                    'ckeditor',
-                    array
-                    (
-                        'config_name' => 'cms'
-                    )
+                    'ckeditor'
                 )
             ;
         }
